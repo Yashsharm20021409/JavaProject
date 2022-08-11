@@ -17,10 +17,6 @@ public class LoginPageProject extends javax.swing.JFrame {
         initComponents();
     }
     
-    public void ths(){
-//        ImageIcon ob = new ImageIcon();
-    }
-    
 
     /**
      * This method is called from within the constructor to initialize the form.
